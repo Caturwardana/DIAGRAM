@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T04:22:40.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.0" etag="-LNGKnDLc_vpYdcpN7Qf" type="github"><diagram id="_CojZTXWy0LxTeWEr2Xf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-06T07:40:14.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XRnWop55gN7m1mw5V_2G" version="20.4.0" type="github">
+  <diagram id="_CojZTXWy0LxTeWEr2Xf" name="Page-1">
+    <mxGraphModel dx="301" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gf2RABEv-WtLoPtttH7B-1" value="" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="404" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gf2RABEv-WtLoPtttH7B-2" value="Pengumpulan&#xa;Data" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontFamily=Times New Roman;" vertex="1" parent="gf2RABEv-WtLoPtttH7B-1">
+          <mxGeometry x="10" y="33" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="gf2RABEv-WtLoPtttH7B-3" value="Survey&#xa;Kebutuhan&#xa;Teknis" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontFamily=Times New Roman;" vertex="1" parent="gf2RABEv-WtLoPtttH7B-1">
+          <mxGeometry x="118" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="gf2RABEv-WtLoPtttH7B-4" value="Perancangan&#xa;(CAD)" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontFamily=Times New Roman;" vertex="1" parent="gf2RABEv-WtLoPtttH7B-1">
+          <mxGeometry x="206" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="gf2RABEv-WtLoPtttH7B-6" value="Perancangan&#xa;(Electrical)" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontFamily=Times New Roman;" vertex="1" parent="gf2RABEv-WtLoPtttH7B-1">
+          <mxGeometry x="294" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="gf2RABEv-WtLoPtttH7B-7" value="Printing&#xa;3D Model" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="gf2RABEv-WtLoPtttH7B-9" value="Electrical&#xa;Wiring" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="gf2RABEv-WtLoPtttH7B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="gf2RABEv-WtLoPtttH7B-6" target="gf2RABEv-WtLoPtttH7B-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="210" />
+              <mxPoint x="480" y="260" />
+              <mxPoint x="70" y="260" />
+              <mxPoint x="70" y="308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
