@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:01:13.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="b37ubBzgBBF35CsUtzjr" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T02:01:53.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lGFzfIKtDWi8K_brMT8d" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,14 +43,16 @@
         <mxCell id="Rjc7kb1yLRML5-KBpSf0-10" value="Kecepatan Angin" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="30" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rjc7kb1yLRML5-KBpSf0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rjc7kb1yLRML5-KBpSf0-12" target="Rjc7kb1yLRML5-KBpSf0-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Rjc7kb1yLRML5-KBpSf0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rjc7kb1yLRML5-KBpSf0-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="165" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Rjc7kb1yLRML5-KBpSf0-12" value="&lt;i&gt;Micro SD Data Logger Shield&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="140" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Rjc7kb1yLRML5-KBpSf0-14" value="&lt;i&gt;Micro SD&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="140" width="90" height="50" as="geometry" />
+        <mxCell id="3m1PrGZj0eVZZva_MJLj-0" value="&lt;i style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Micro SD&lt;/i&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="120" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
