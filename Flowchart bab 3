@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T10:41:13.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZijK6wF1go-C5d5J9qMs" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T10:58:22.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yO2GbLmVhIrDs959oLBA" version="21.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="840" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -585,8 +585,8 @@
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-38" value="Pengujian&amp;nbsp;MPPT" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1181" y="1880" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pQ0ar14u9FkPoCwVx3Tx-39" value="Perakitan MPPT pada turbin" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1363.22" y="1680" width="119.56" height="36" as="geometry" />
+        <mxCell id="pQ0ar14u9FkPoCwVx3Tx-39" value="Perakitan MPPT pada turbin angin savonius dua sudu" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1363.33" y="1728.5" width="119.56" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-40" value="Kalibrasi sensor arus dan tegangan pada sistem MPPT" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1180.44" y="1822" width="120" height="42" as="geometry" />
@@ -626,51 +626,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pQ0ar14u9FkPoCwVx3Tx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pQ0ar14u9FkPoCwVx3Tx-37" target="pQ0ar14u9FkPoCwVx3Tx-39">
+        <mxCell id="pQ0ar14u9FkPoCwVx3Tx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pQ0ar14u9FkPoCwVx3Tx-37" target="pQ0ar14u9FkPoCwVx3Tx-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1440.23" y="1823.02" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1240" y="1980" />
               <mxPoint x="1330" y="1980" />
-              <mxPoint x="1330" y="1698" />
+              <mxPoint x="1330" y="1695" />
             </Array>
             <mxPoint x="1375.05" y="2007" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-50" value="Analisis Data&lt;br&gt;dan Kesimpulan" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1363" y="1792" width="120" height="30" as="geometry" />
+          <mxGeometry x="1363.11" y="1844" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengambilan data&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1363" y="1736" width="120" height="36" as="geometry" />
+          <mxGeometry x="1363.11" y="1788" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-52" value="Penyusunan Laporan" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1362.78" y="1837" width="120" height="30" as="geometry" />
+          <mxGeometry x="1362.8899999999999" y="1889" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-53" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1362.78" y="1883" width="120" height="50" as="geometry" />
+          <mxGeometry x="1362.8899999999999" y="1935" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pQ0ar14u9FkPoCwVx3Tx-39" target="pQ0ar14u9FkPoCwVx3Tx-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1250" y="1670" as="sourcePoint" />
-            <mxPoint x="1250" y="1690" as="targetPoint" />
+            <mxPoint x="1250.11" y="1722" as="sourcePoint" />
+            <mxPoint x="1250.11" y="1742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1422.88" y="1772" as="sourcePoint" />
-            <mxPoint x="1422.88" y="1792" as="targetPoint" />
+            <mxPoint x="1422.99" y="1824" as="sourcePoint" />
+            <mxPoint x="1422.99" y="1844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pQ0ar14u9FkPoCwVx3Tx-50" target="pQ0ar14u9FkPoCwVx3Tx-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1432.88" y="1782" as="sourcePoint" />
-            <mxPoint x="1432.88" y="1802" as="targetPoint" />
+            <mxPoint x="1432.99" y="1834" as="sourcePoint" />
+            <mxPoint x="1432.99" y="1854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pQ0ar14u9FkPoCwVx3Tx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pQ0ar14u9FkPoCwVx3Tx-52" target="pQ0ar14u9FkPoCwVx3Tx-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1432.88" y="1782" as="sourcePoint" />
-            <mxPoint x="1432.88" y="1802" as="targetPoint" />
+            <mxPoint x="1432.99" y="1834" as="sourcePoint" />
+            <mxPoint x="1432.99" y="1854" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQ0ar14u9FkPoCwVx3Tx-62" value="Persiapan turbin angin savonius dua sudu" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1363.11" y="1680" width="119.56" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ0ar14u9FkPoCwVx3Tx-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pQ0ar14u9FkPoCwVx3Tx-62" target="pQ0ar14u9FkPoCwVx3Tx-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1433" y="1781" as="sourcePoint" />
+            <mxPoint x="1433" y="1798" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1423" y="1720" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
