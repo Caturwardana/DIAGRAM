@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T11:35:33.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kPmtJm9qoOKgKvgM_6dU" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T11:35:58.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="N33wZbToyED6sbcN4Kry" version="22.1.18" type="github">
   <diagram name="Page-1" id="OnyFU-YfFhnrbQDn1AAG">
     <mxGraphModel dx="1916" dy="2120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="UwU-U_N03B3xHGGATQ5Y-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-UYQqZjcA23U/XmG0Irk5QKI/AAAAAAAAFjw/AsuEK52SUgEKtZv66zqGyXSEm1JUI7L2gCLcBGAsYHQ/s1600/Gambar%2BFlowchart.jpg;" vertex="1" parent="1">
           <mxGeometry x="-423" y="-1454" width="1175" height="1200" as="geometry" />
         </mxCell>
-        <mxCell id="UwU-U_N03B3xHGGATQ5Y-6" value="Inisialisasi awal layar TFT, Kondisi&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UwU-U_N03B3xHGGATQ5Y-6" value="Inisialisasi awal layar TFT, Kondisi relay, SSR, LED status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-393" y="99" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
